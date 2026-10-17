@@ -1,0 +1,136 @@
+# Blender 5.2.2 LTS MTL File: 'Уже крутая квартира план йоу.blend'
+# www.blender.org
+
+newmtl Poliigon_GrassPatchyGround_4585_WM
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/Poliigon_GrassPatchyGround_4585_Roughness_WM.png
+map_refl C:/Poliigon_GrassPatchyGround_4585_Metallic_WM.png
+map_Bump -bm 1.000000 C:/Poliigon_GrassPatchyGround_4585_Normal_WM.png
+
+newmtl Poliigon_StoneQuartzite_8060_WM
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/Poliigon_StoneQuartzite_8060_Roughness_WM.png
+map_refl C:/Poliigon_StoneQuartzite_8060_Metallic_WM.png
+map_Bump -bm 1.000000 C:/Poliigon_StoneQuartzite_8060_Normal_WM.png
+
+newmtl Poliigon_TilesCeramicWhite_6956_WM
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/Poliigon_TilesCeramicWhite_6956_Roughness_WM.png
+map_refl C:/Poliigon_TilesCeramicWhite_6956_Metallic_WM.png
+map_Bump -bm 1.000000 C:/Poliigon_TilesCeramicWhite_6956_Normal_WM.png
+
+newmtl Poliigon_WallpaperFabric_13761_WM
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/Poliigon_WallpaperFabric_13761_Roughness_WM.jpg
+map_refl C:/Poliigon_WallpaperFabric_13761_Metallic_WM.jpg
+map_Bump -bm 1.000000 C:/Poliigon_WallpaperFabric_13761_Normal_WM.png
+
+newmtl Poliigon_WallpaperFabric_13764_WM
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/Poliigon_WallpaperFabric_13764_Roughness_WM.jpg
+map_refl C:/Poliigon_WallpaperFabric_13764_Metallic_WM.jpg
+map_Bump -bm 1.000000 C:/Poliigon_WallpaperFabric_13764_Normal_WM.png
+
+newmtl Poliigon_WallpaperFabric_13766_WM
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/Poliigon_WallpaperFabric_13766_Roughness_WM.jpg
+map_refl C:/Poliigon_WallpaperFabric_13766_Metallic_WM.jpg
+map_Bump -bm 1.000000 C:/Poliigon_WallpaperFabric_13766_Normal_WM.png
+
+newmtl StoneBricksSplitface001_WM
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_refl C:/StoneBricksSplitface001_REFL_WM.jpg
+map_Bump -bm 1.000000 C:/StoneBricksSplitface001_NRM_WM.jpg
+
+newmtl frame
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.780000 0.780000 0.740000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl glass
+Ns 0.000000
+Ka 0.050000 0.050000 0.050000
+Kd 0.350000 0.720000 0.880000
+Ks 0.850000 0.850000 0.850000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.380000
+illum 6
+
+newmtl handle
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.720000 0.620000 0.420000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl metal
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.180000 0.200000 0.220000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl ЧЕТО
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.069811 0.069811 0.069811
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2

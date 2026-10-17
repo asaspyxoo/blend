@@ -1,0 +1,35 @@
+newmtl black_matte
+Ka 0.02 0.02 0.02
+Kd 0.025 0.03 0.04
+Ks 0.45 0.45 0.45
+d 1.0
+illum 2
+
+newmtl black_trim
+Ka 0.02 0.02 0.02
+Kd 0.07 0.08 0.09
+Ks 0.45 0.45 0.45
+d 1.0
+illum 2
+
+newmtl glass_dark
+Ka 0.02 0.02 0.02
+Kd 0.08 0.13 0.17
+Ks 0.45 0.45 0.45
+d 1.0
+illum 2
+
+newmtl metal
+Ka 0.02 0.02 0.02
+Kd 0.55 0.57 0.6
+Ks 0.45 0.45 0.45
+d 1.0
+illum 2
+
+newmtl gold
+Ka 0.02 0.02 0.02
+Kd 0.68 0.48 0.2
+Ks 0.45 0.45 0.45
+d 1.0
+illum 2
+
